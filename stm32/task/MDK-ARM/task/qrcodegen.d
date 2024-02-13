@@ -1,0 +1,15 @@
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\qrcodegen.c
+task\qrcodegen.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\limits.h
+task\qrcodegen.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+task\qrcodegen.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\string.h
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\qrcodegen.h
+task\qrcodegen.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+task\qrcodegen.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\qrcodegen.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\../../../misc/lv_assert.h
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\../../../misc/../lv_conf_internal.h
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\../../../misc/../lv_conf_kconfig.h
+task\qrcodegen.o: ..\Core\Src\lvgl\examples\porting\../../lv_conf.h
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\../../../misc/lv_log.h
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\../../../misc/lv_types.h
+task\qrcodegen.o: ..\Core\Src\LVGL\src\extra\libs\qrcode\../../../misc/lv_mem.h

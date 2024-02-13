@@ -1,0 +1,10 @@
+task\lv_printf.o: ..\Core\Src\LVGL\src\misc\lv_printf.c
+task\lv_printf.o: ..\Core\Src\LVGL\src\misc\lv_printf.h
+task\lv_printf.o: ..\Core\Src\LVGL\src\misc\../lv_conf_internal.h
+task\lv_printf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\lv_printf.o: ..\Core\Src\LVGL\src\misc\../lv_conf_kconfig.h
+task\lv_printf.o: ..\Core\Src\lvgl\examples\porting\../../lv_conf.h
+task\lv_printf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+task\lv_printf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\lv_printf.o: ..\Core\Src\LVGL\src\misc\lv_types.h
+task\lv_printf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h

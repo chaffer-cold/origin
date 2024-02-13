@@ -1,0 +1,16 @@
+task\lv_font.o: ..\Core\Src\LVGL\src\font\lv_font.c
+task\lv_font.o: ..\Core\Src\LVGL\src\font\lv_font.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../lv_conf_internal.h
+task\lv_font.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../lv_conf_kconfig.h
+task\lv_font.o: ..\Core\Src\lvgl\examples\porting\../../lv_conf.h
+task\lv_font.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\lv_font.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\lv_symbol_def.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../misc/lv_area.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../misc/lv_utils.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../misc/lv_log.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../misc/lv_types.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../misc/lv_assert.h
+task\lv_font.o: ..\Core\Src\LVGL\src\font\../misc/lv_mem.h
+task\lv_font.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\string.h

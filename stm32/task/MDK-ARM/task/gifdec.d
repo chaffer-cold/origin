@@ -1,0 +1,16 @@
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\gifdec.c
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\gifdec.h
+task\gifdec.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/lv_fs.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+task\gifdec.o: ..\Core\Src\lvgl\examples\porting\../../lv_conf.h
+task\gifdec.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/lv_log.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/lv_types.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/lv_mem.h
+task\gifdec.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\gifdec.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\string.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/lv_color.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/lv_assert.h
+task\gifdec.o: ..\Core\Src\LVGL\src\extra\libs\gif\../../../misc/lv_math.h

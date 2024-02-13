@@ -1,0 +1,13 @@
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\lv_tlsf.c
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\../lv_conf_internal.h
+task\lv_tlsf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\../lv_conf_kconfig.h
+task\lv_tlsf.o: ..\Core\Src\lvgl\examples\porting\../../lv_conf.h
+task\lv_tlsf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\limits.h
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\lv_tlsf.h
+task\lv_tlsf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\lv_mem.h
+task\lv_tlsf.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\string.h
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\lv_types.h
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\lv_log.h
+task\lv_tlsf.o: ..\Core\Src\LVGL\src\misc\lv_assert.h

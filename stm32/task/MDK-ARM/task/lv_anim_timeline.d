@@ -1,0 +1,14 @@
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\lv_anim_timeline.c
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\lv_anim_timeline.h
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\lv_anim.h
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\../lv_conf_internal.h
+task\lv_anim_timeline.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\../lv_conf_kconfig.h
+task\lv_anim_timeline.o: ..\Core\Src\lvgl\examples\porting\../../lv_conf.h
+task\lv_anim_timeline.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+task\lv_anim_timeline.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\lv_mem.h
+task\lv_anim_timeline.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\string.h
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\lv_types.h
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\lv_assert.h
+task\lv_anim_timeline.o: ..\Core\Src\LVGL\src\misc\lv_log.h

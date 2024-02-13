@@ -1,0 +1,11 @@
+task\lv_ll.o: ..\Core\Src\LVGL\src\misc\lv_ll.c
+task\lv_ll.o: ..\Core\Src\LVGL\src\misc\lv_ll.h
+task\lv_ll.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\lv_ll.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\lv_ll.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+task\lv_ll.o: ..\Core\Src\LVGL\src\misc\lv_mem.h
+task\lv_ll.o: ..\Core\Src\LVGL\src\misc\../lv_conf_internal.h
+task\lv_ll.o: ..\Core\Src\LVGL\src\misc\../lv_conf_kconfig.h
+task\lv_ll.o: ..\Core\Src\lvgl\examples\porting\../../lv_conf.h
+task\lv_ll.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\string.h
+task\lv_ll.o: ..\Core\Src\LVGL\src\misc\lv_types.h

@@ -1,0 +1,13 @@
+float32 distance
+
+---
+
+float32 pose
+
+
+---
+
+float32 pose
+float32 status
+uint32 STATUS_MOVING=3
+uint32 STATUS_STOP=4

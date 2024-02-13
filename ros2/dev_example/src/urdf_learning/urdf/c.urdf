@@ -1,0 +1,27 @@
+<robot name="cBot">
+	<link name="base_link">
+		<visual>
+			<origin xyz="0 0 0.0" rpy="0 0 0"/>
+			<geometry>
+				<cylinder length="0.12" radius="0.10"/>
+			</geometry>
+
+		</visual>
+	</link>
+	
+	<link name="radar_link">
+		<visual>
+			<origin xyz="0 0 0.0" rpy="0 0 0"/>
+			<geometry>
+				<cylinder length="0.02" radius="0.02"/>
+			</geometry>
+		</visual>
+	</link>
+	<joint name="radar_joint" type="fixed">
+		<parent link="base_link"/>
+		<child link="radar_link"/>
+		<origin xyz="0 0 0.075"/>
+		
+	
+	</joint>
+</robot>

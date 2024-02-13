@@ -1,0 +1,17 @@
+task\ui.o: ..\Core\Src\LVGL\app\UI.c
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+task\ui.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+task\ui.o: D:\TOOLS\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+task\ui.o: ../Core/Inc/FreeRTOSConfig.h
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+task\ui.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+task\ui.o: ..\Core\Src\LVGL\src\lvgl.h
+task\ui.o: ..\Core\Src\LVGL\src\../lvgl.h
+task\ui.o: ..\Core\Src\LVGL\src\../src/misc/lv_log.h
+task\ui.o: ..\Core\Src\LVGL\src\../src/misc/../lv_conf_internal.h
+task\ui.o: ..\Core\Src\LVGL\src\../src/misc/../lv_conf_kconfig.h

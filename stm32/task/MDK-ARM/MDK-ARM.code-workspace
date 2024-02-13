@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "ros2twist",
+            "path": "../../../../../PIO/ros2twist"
+        }
+    ],
+    "settings": {},
+    "extensions": {}
+}
